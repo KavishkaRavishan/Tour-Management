@@ -81,6 +81,8 @@ const Home = () => {
         </Container>
       </section>
       {/* ===== featured tour section end ==== */}
+      {/* ===== experience section start ==== */}
+      {/* ===== experience section start ==== */}
     </>
   );
 };
